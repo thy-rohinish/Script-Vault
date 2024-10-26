@@ -19,8 +19,8 @@ This Python script allows users to change the MAC address of a specified network
 
 **1. Clone the repository or download the script:**
 ``` bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/thy-rohinish/Script-Vault.git
+cd Script-Vault/src/mac_changer
 ```
 
 **2. Make sure you have Python installed on your system. You can check this by running:**
@@ -50,13 +50,13 @@ sudo ./mac_changer.py
 
 ## Example
 
-<br>Enter the network interface (e.g., wlan0, eth0): wlan0</br>
-Do you want to enter a custom MAC address or use a random one? (custom/random): random
-Generated random MAC address: 00:16:3e:12:34:56
-Do you want to automatically change MAC address at intervals? (yes/no): yes
-Enter time unit for interval (seconds/minutes): seconds
-Enter time interval between MAC changes: 30
-Changing MAC address every 30 seconds...
+<br>Enter the network interface (e.g., wlan0, eth0): **wlan0**</br>
+<br>Do you want to enter a custom MAC address or use a random one? (custom/random): **random**</br>
+<br>Generated random MAC address: **00:16:3e:12:34:56**</br>
+<br>Do you want to automatically change MAC address at intervals? (yes/no): **yes**</br>
+<br>Enter time unit for interval (seconds/minutes): **seconds**</br>
+<br>Enter time interval between MAC changes: **30**</br>
+<br>Changing MAC address every **30 seconds...**</br>
 
 ## Reverting to Original MAC Address
 
