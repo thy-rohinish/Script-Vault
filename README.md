@@ -53,7 +53,7 @@ Key Features: Real-time detection, alerting, and countermeasures.
 ## Documentation
 Find detailed guides, walkthroughs, and usage examples in the docs/ folder. Each script includes its own README.md to explain its purpose, features, and step-by-step usage.
 
-## 🛠 Installation Instructions
+## Installation Instructions
 Clone the repository:
 
 **Clone the repository:**
