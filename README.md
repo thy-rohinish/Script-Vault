@@ -8,8 +8,16 @@ Script-Vault is a carefully curated set of network security tools. Developed whi
 Here’s a summary of the tools currently housed within the vault, with many more on the way:
 
 #### 1. MAC Address Changer 
-- **Purpose:** Change your device's MAC address for anonymity on local networks.
-- **Key Features:** User-friendly interface and rapid execution.
+
+#### Purpose Statement
+The MAC Changer script allows users to easily change their device's MAC address either by entering a custom address or generating a random one. It provides options for automatic MAC address randomization at specified intervals, enhancing user privacy and network security.
+
+#### Key Features
+- Custom MAC Address Input: Users can specify a custom MAC address in the format XX:XX:XX:XX:XX.
+- Random MAC Generation: Automatically generate a random MAC address with a customizable prefix.
+- Auto-Randomization: Change the MAC address at user-defined intervals, with options for seconds or minutes.
+- Verification: Checks if the MAC address has been successfully changed and provides feedback.
+- Reversion: Easily revert to the original MAC address when desired.
 
 ## Documentation
 Each script includes its own README.md to explain its purpose, features, and step-by-step usage.
