@@ -15,14 +15,14 @@ The MAC Address Changer is a Python script designed to change the MAC address of
 
 To run the MAC Address Changer, follow these steps:
 
-1. **Clone the Repository**:
+**1.Clone the Repository**:
 
 ``` bash
 git clone https://github.com/thy-rohinish/Script-Vault.git
 cd Script-Vault/src/mac_changer
 ```
 
-2. **Install Requirements: Make sure you have the required libraries. You can install them using pip:**
+**2.Install Requirements: Make sure you have the required libraries. You can install them using pip:**
 
 ``` bash
 pip install -r ../../requirements.txt
@@ -38,21 +38,21 @@ python mac_changer.py
 
 ## Example Commands
 
-1. **To display available network interfaces:**
+**1.To display available network interfaces:**
 ``` bash
 python mac_changer.py --list
 ```
 
-2. **To change the MAC address of a specific interface:**
+**2.To change the MAC address of a specific interface:**
 ``` bash
 python mac_changer.py --interface <interface_name> --new_mac <new_mac_address>
 ```
 
 ## Parameters
 
---list: Displays the list of available network interfaces.
---interface: Specifies the network interface for which you want to change the MAC address.
---new_mac: Specifies the new MAC address to assign.
+- ```list```: Displays the list of available network interfaces.
+- ```interface```: Specifies the network interface for which you want to change the MAC address.
+- ```new_mac```: Specifies the new MAC address to assign.
 
 ## Important Notes
 
@@ -65,4 +65,4 @@ Contributions are welcome! If you have ideas, suggestions, or improvements, feel
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the MIT LICENSE
