@@ -1,5 +1,5 @@
 # Script-Vault 
-Welcome to Script-Vault—a dynamic collection of Python scripts meticulously crafted to explore, secure, and challenge the digital landscape. This repository represents my journey through the realms of cybersecurity, ethical hacking, and network analysis. Each script is a precision tool, showcasing the art of cybersecurity and the commitment to learning.
+Script-Vault is a collection of Python scripts that I’ve created to explore and secure the digital landscape. This repository showcases my journey in cybersecurity, ethical hacking, and network analysis. Each script is a unique tool that reflects my commitment to learning and my passion for tackling the challenges in the field of cybersecurity. I hope you find these scripts helpful and inspiring!
 
 ##  Overview of Script-Vault
 Script-Vault is a carefully curated set of network security tools. Developed while mastering Python scripting and cybersecurity principles, these scripts serve as practical experiments, offering insights into the foundational aspects of ethical hacking. This repository is both a testament to my growth as a programmer and a functional toolkit for those eager to investigate network vulnerabilities.
@@ -9,7 +9,7 @@ Here’s a summary of the tools currently housed within the vault, with many mor
 
 #### 1. MAC Address Changer 
 - **Purpose:** Change your device's MAC address for anonymity on local networks.
-- **Key Features:** User-friendly interface, rapid execution, and cross-platform compatibility.
+- **Key Features:** User-friendly interface, rapid execution.
 #### 2. Network Scanner 
 - **Purpose:** Identify active devices on a network and detect open ports.
 - **Key Features:** Quick scanning, comprehensive output, and customizable targets.
