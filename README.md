@@ -54,7 +54,6 @@ Key Features: Real-time detection, alerting, and countermeasures.
 Find detailed guides, walkthroughs, and usage examples in the docs/ folder. Each script includes its own README.md to explain its purpose, features, and step-by-step usage.
 
 ## Installation Instructions
-Clone the repository:
 
 **Clone the repository:**
 ```bash git clone https://github.com/thy-rohinish/Script-Vault.git```
