@@ -42,4 +42,4 @@ This repository is more than just tools; it represents growth. Each script is a 
 Contributions are highly encouraged! If you have ideas, feedback, or enhancements, please fork this repository and open a pull request. Let’s collaborate to build a safer digital environment!
 
 ## License
-This project is licensed under the [MIT License](./LICENSE.md).
+This project is licensed under the [MIT License](./LICENSE.md)
