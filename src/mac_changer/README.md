@@ -50,13 +50,13 @@ sudo ./mac_changer.py
 
 ## Example
 
-- Enter the network interface (e.g., wlan0, eth0): **wlan0**
-- Do you want to enter a custom MAC address or use a random one? (custom/random): **random**
-- Generated random MAC address: **00:16:3e:12:34:56**
-- Do you want to automatically change MAC address at intervals? (yes/no): **yes**
-- Enter time unit for interval (seconds/minutes): **seconds**
-- Enter time interval between MAC changes: **30**
-- Changing MAC address every **30 seconds...**
+- Enter the network interface (e.g., wlan0, eth0): `wlan0`
+- Do you want to enter a custom MAC address or use a random one? (custom/random): `random`
+- Generated random MAC address: `00:16:3e:12:34:56`
+- Do you want to automatically change MAC address at intervals? (yes/no): `yes`
+- Enter time unit for interval (seconds/minutes): `seconds`
+- Enter time interval between MAC changes: `30`
+- Changing MAC address every `30 seconds...`
 
 ## Reverting to Original MAC Address
 
