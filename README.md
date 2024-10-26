@@ -9,7 +9,7 @@ Here’s a summary of the tools currently housed within the vault, with many mor
 
 #### 1. MAC Address Changer 
 - **Purpose:** Change your device's MAC address for anonymity on local networks.
-- **Key Features:** User-friendly interface, rapid execution.
+- **Key Features:** User-friendly interface and rapid execution.
 #### 2. Network Scanner 
 - **Purpose:** Identify active devices on a network and detect open ports.
 - **Key Features:** Quick scanning, comprehensive output, and customizable targets.
