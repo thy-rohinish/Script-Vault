@@ -55,17 +55,17 @@ Find detailed guides, walkthroughs, and usage examples in the docs/ folder. Each
 
 ## Installation Instructions
 
-**Clone the repository:**
+**1. Clone the repository:**
 ```bash 
 git clone https://github.com/thy-rohinish/Script-Vault.git
 ```
 
-**Navigate to the project directory:**
+**2. Navigate to the project directory:**
 ``` bash 
 cd Script-Vault
 ```
 
-**Install required packages:**
+**3. Install required packages:**
 ```bash 
 pip install -r requirements.txt
 ```
