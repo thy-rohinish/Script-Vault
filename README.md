@@ -36,7 +36,7 @@ This repository is more than just tools; it represents growth. Each script is a 
 
 - **Python Mastery:** Gained hands-on experience with core Python libraries and third-party modules.
 - **Networking Fundamentals:** Studied protocols, network layers, and packet structures.
-- **Security Concepts:** Explored ethical hacking, vulnerabilities, and defensive strategies
+- **Security Concepts:** Explored ethical hacking, vulnerabilities, and defensive strategies.
 
 ## Contributing
 Contributions are highly encouraged! If you have ideas, feedback, or enhancements, please fork this repository and open a pull request. Let’s collaborate to build a safer digital environment!
