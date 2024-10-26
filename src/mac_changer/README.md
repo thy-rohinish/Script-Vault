@@ -1,4 +1,4 @@
-# MAC Address Changer 🔄
+# MAC Address Changer 
 
 ## Overview
 
@@ -16,39 +16,53 @@ The MAC Address Changer is a Python script designed to change the MAC address of
 To run the MAC Address Changer, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/thy-rohinish/CyberForge-Scripts.git
-   cd CyberForge-Scripts/src/mac_changer
+
+``` bash
+git clone https://github.com/thy-rohinish/Script-Vault.git
+cd Script-Vault/src/mac_changer
 ```
+
 2. **Install Requirements: Make sure you have the required libraries. You can install them using pip:**
-```pip install -r ../../requirements.txt```
+
+``` bash
+pip install -r ../../requirements.txt
+```
 
 ## Usage
 
-**To change your MAC address, run the following command in your terminal:**
-    ``` bash python mac_changer.py
+To change your MAC address, run the following command in your terminal:
+
+``` bash
+python mac_changer.py
 ```
+
 ## Example Commands
 
-**To display available network interfaces:**
+1. **To display available network interfaces:**
+``` bash
+python mac_changer.py --list
+```
 
-``` bash python mac_changer.py --list```
-
-**To change the MAC address of a specific interface:**
-
-``` bash python mac_changer.py --interface <interface_name> --new_mac <new_mac_address>```
+2. **To change the MAC address of a specific interface:**
+``` bash
+python mac_changer.py --interface <interface_name> --new_mac <new_mac_address>
+```
 
 ## Parameters
+
 --list: Displays the list of available network interfaces.
 --interface: Specifies the network interface for which you want to change the MAC address.
 --new_mac: Specifies the new MAC address to assign.
 
 ## Important Notes
-Running this script may require administrative privileges. Ensure you run the terminal as an administrator or with sudo on Unix-based systems.
-Changing your MAC address may violate your ISP's terms of service. Use this tool responsibly and at your own risk.
+
+- Running this script may require administrative privileges. Ensure you run the terminal as an administrator or with sudo on Unix-based systems.
+- Changing your MAC address may violate your ISP's terms of service. Use this tool responsibly and at your own risk.
 
 ## Contribution
+
 Contributions are welcome! If you have ideas, suggestions, or improvements, feel free to fork this repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+This project is licensed under the LICENSE.md
