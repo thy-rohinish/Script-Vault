@@ -56,13 +56,19 @@ Find detailed guides, walkthroughs, and usage examples in the docs/ folder. Each
 ## Installation Instructions
 
 **Clone the repository:**
-```bash git clone https://github.com/thy-rohinish/Script-Vault.git```
+```bash 
+git clone https://github.com/thy-rohinish/Script-Vault.git
+```
 
 **Navigate to the project directory:**
-```bash cd Script-Vault```
+``` bash 
+cd Script-Vault
+```
 
 **Install required packages:**
-```bash pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
 
 ## Learning Journey
 This repository is more than just tools; it represents growth. Each script is a milestone in my educational journey, exploring Python’s capabilities and the depths of network security. Here’s a snapshot of my learning path:
