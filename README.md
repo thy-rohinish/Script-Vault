@@ -12,7 +12,7 @@ Here’s a summary of the tools currently housed within the vault, with many mor
 - **Key Features:** User-friendly interface and rapid execution.
 
 ## Documentation
-Find detailed guides, walkthroughs, and usage examples in the docs/ folder. Each script includes its own README.md to explain its purpose, features, and step-by-step usage.
+Each script includes its own README.md to explain its purpose, features, and step-by-step usage.
 
 ## Installation Instructions
 
