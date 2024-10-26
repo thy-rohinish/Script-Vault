@@ -7,7 +7,6 @@ The MAC Address Changer is a Python script designed to change the MAC address of
 ## Features
 
 - **Simple Interface**: User-friendly command-line interface for ease of use.
-- **Cross-Platform Support**: Compatible with major operating systems (Windows, Linux, macOS).
 - **Quick Execution**: Fast and efficient MAC address changing process.
 - **Network Interface Selection**: Automatically detects available network interfaces for user selection.
 
